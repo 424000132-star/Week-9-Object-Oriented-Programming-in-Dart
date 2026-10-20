@@ -12,6 +12,6 @@ This Dart program uses a SmartLaptop class to model real-world computers with at
 How to Run
 Open https://dartpad.dev/
 
-Copy the code from Week 9: Object-Oriented Programming in Dart
+Copy the code from Week 9: Object-Oriented.dart
 Paste it into DartPad.
 Click Run to see the output.
